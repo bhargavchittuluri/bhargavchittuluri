@@ -34,8 +34,8 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 
 ## 🌐 Online Presence
 
-- [Personal Blog](awsbhargav.blogspot.com): Share your insights and experiences in tech.
-- [Portfolio Website](awsbhargav.com): Explore more about my work and projects.
+- [Personal Blog](https://www.awsbhargav.blogspot.com): Share your insights and experiences in tech.
+- [Portfolio Website](https://www.awsbhargav.com): Explore more about my work and projects.
 
 ## 🏆 Achievements
 
