@@ -28,7 +28,7 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aws-bhargav?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1UtUYxnTSg2Y%2B3uXAhPvDQ%3D%3D)
-- IG: [Your IG Name](https://www.instagram.com/bhargavchittuluri/)
+- IG: [Your IG Name][<img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Finstagram-icon&psig=AOvVaw2O3FScdtsmK65F7MjWEf4T&ust=1702826249163000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi0s8yglIMDFQAAAAAdAAAAABAJ">](https://www.instagram.com/bhargavchittuluri/)
 - FB: [Your FB Name](https://www.facebook.com/profile.php?id=61553583915757)
 - Twitter: [Your Twitter Handle](https://twitter.com/bhargav222666)
 
